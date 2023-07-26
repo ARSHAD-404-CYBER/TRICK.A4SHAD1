@@ -101,7 +101,7 @@ cokbrut=[]
 
 def back():
 	login()
-Arshad="Arshad"
+Tutul="Tutul"
 imt="SETU"
 ak="CLASS3-"
 
