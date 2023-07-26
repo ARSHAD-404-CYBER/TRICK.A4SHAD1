@@ -101,7 +101,7 @@ cokbrut=[]
 
 def back():
 	login()
-TRICK A4SHAD="TRICK A4SHAD"
+TRICK A4SHAD="TRICK_A4SHAD"
 imt="SETU"
 ak="CLASS3-"
 
